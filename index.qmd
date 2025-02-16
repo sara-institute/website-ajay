@@ -1,0 +1,46 @@
+---
+title: "Dr. Ajay Kumar Koli"
+subtitle: "Data Science Educator"
+format: html
+#backgroundcolor: "#f9ba06"
+image: images/ajay.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  #image-width: 8cm
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sara-institute
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    - icon: twitter
+      text: Twitter
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    # - icon: google
+    #   text: Scholar
+    #   href: https://www.linkedin.com/in/ajay-kumar-koli/
+---
+
+Hi there! Welcome to my profile page!
+
+I am a data science educator. I am a first generation college graduate. My wife Dr. Kiran and I cofounded SARA Institue of Data Science, India. I am working to make data science education available to general public in India. I love to connect and chat with you. When I am not working, I like jogging and cooking.
+
+## Education
+
+University of Hyderabad | Hyderabad, Telangana.  
+PhD in Management Studies | Aug 2010 - Sept 2019
+
+University of Wurzburgy | Wurzburg, Germany.   
+Research Stay | Jan 2014 - Feb 2014
+
+Pondicherry Central University | Pondicherry, India.
+M.B.A. Tourism Studies | 2006 - 2008 <br> {{< fa medal >}} Gold Medalist.
+
+
+Jawaharlal Nehru University | New Delhi, India.
+B.A. Hons. Russian Language | 2003 - 2006
+
+
+
