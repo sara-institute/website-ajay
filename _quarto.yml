@@ -1,3 +1,25 @@
 project: 
   type: website
 
+website:
+  title: "Dr. Ajay Kumar Koli"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/koliajaykr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ajay-kumar-koli/
+      - icon: twitter
+        href: https://x.com/ajay_kolii
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    
+    

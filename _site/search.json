@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Ajay",
+    "section": "",
+    "text": "Welcome to my side of the world!\nI use R language for data science.\n\nplot(1:100)\n\n\n\n\n\n\n\n\nWe all know 1 + 1 is 2?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Ajay Kumar Koli",
     "section": "",
-    "text": "Hi there! Welcome to my profile page!\nI am a data science educator. I am a first generation college graduate. My wife Dr. Kiran and I cofounded SARA Institue of Data Science, India. I am working to make data science education available to general public in India. I love to connect and chat with you. When I am not working, I like jogging and cooking."
+    "text": "Hi there! Welcome to my profile!\nI am a data science educator and a first-generation college graduate. My wife, Dr. Kiran, and I co-founded the SARA Institute of Data Science, India, with the mission of making data science education accessible to the general public in India.\nWhen I’m not working, you’ll find me jogging or experimenting in the kitchen.\nI’d love to connect and chat with you! hello world"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Dr. Ajay Kumar Koli",
     "section": "Education",
-    "text": "Education\nUniversity of Hyderabad | Hyderabad, Telangana.\nPhD in Management Studies | Aug 2010 - Sept 2019\nUniversity of Wurzburgy | Wurzburg, Germany.\nResearch Stay | Jan 2014 - Feb 2014\nPondicherry Central University | Pondicherry, India. M.B.A. Tourism Studies | 2006 - 2008   Gold Medalist.\nJawaharlal Nehru University | New Delhi, India. B.A. Hons. Russian Language | 2003 - 2006"
+    "text": "Education\nUniversity of Hyderabad | Hyderabad, Telangana.\nPhD in Management Studies | Aug 2010 - Sept 2019\nUniversity of Wurzburg | Wurzburg, Germany.\nResearch Stay | Jan 2014 - Feb 2014\nPondicherry Central University | Pondicherry, India. M.B.A. Tourism Studies | 2006 - 2008   Gold Medalist.\nJawaharlal Nehru University | New Delhi, India.\nB.A. Hons. Russian Language | 2003 - 2006"
   }
 ]
