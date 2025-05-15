@@ -16,28 +16,15 @@ about:
       href: https://www.linkedin.com/in/ajay-kumar-koli/
 ---
 
-**Hi there! Welcome to my profile!**
+*Hello World!* 👋 
 
-I am a data science educator and a first-generation college graduate. My wife, Dr. Kiran, and I co-founded the **SARA Institute of Data Science, India**, with the mission of making data science education accessible to the general public in India. 
+I am Ajay, a data science educator on a mission to turn complex data into **actionable skills** for everyone -- no coding background required.
 
-When I’m not working, you’ll find me jogging or experimenting in the kitchen. 
+Through [SARA Institute of Data Science](https://sara-edu.netlify.app/) (co-founded with my wife, Dr. Kiran Lata), we are training learners across India to use data for social good, research, and innovation.
 
-I’d love to connect and chat with you! `hello world`
+As a first-generation college graduate, I have spent several years teaching R to students and professionals -- proving data science is not just for tech elites.
 
-## Education
+**Off-duty:** Jogging, testing new recipes, or chasing my toddler around the house.
 
-University of Hyderabad | Hyderabad, Telangana.  
-PhD in Management Studies | Aug 2010 - Sept 2019
-
-University of Wurzburg | Wurzburg, Germany.   
-Research Stay | Jan 2014 - Feb 2014
-
-Pondicherry Central University | Pondicherry, India.
-M.B.A. Tourism Studies | 2006 - 2008 <br> {{< fa medal >}} Gold Medalist.
-
-
-Jawaharlal Nehru University | New Delhi, India.   
-B.A. Hons. Russian Language | 2003 - 2006
-
-
+Let’s chat about data, education, or why every PhD student needs R!
 

@@ -1,0 +1,20 @@
+---
+title: "Education"
+format: html
+---
+
+- University of Hyderabad | Hyderabad, Telangana.  
+PhD in Management Studies | Aug 2010 - Sept 2019
+
+- University of Wurzburg | Wurzburg, Germany.   
+Research Stay | Jan 2014 - Feb 2014
+
+- Pondicherry Central University | Pondicherry, India.      
+{{< fa medal >}} Gold Medalist in M.B.A. Tourism Studies | 2006 - 2008 
+
+- Jawaharlal Nehru University | New Delhi, India.   
+B.A. Hons. Russian Language | 2003 - 2006
+
+- Indira Gandhi National Open University New Delhi, India.   
+B.A. Tourism Studies | 2003 - 2006
+

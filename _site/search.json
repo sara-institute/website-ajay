@@ -1,23 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Ajay",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "Welcome to my side of the world!\nI use R language for data science.\n\nplot(1:100)\n\n\n\n\n\n\n\n\nWe all know 1 + 1 is 2?"
+    "text": "University of Hyderabad | Hyderabad, Telangana.\nPhD in Management Studies | Aug 2010 - Sept 2019\nUniversity of Wurzburg | Wurzburg, Germany.\nResearch Stay | Jan 2014 - Feb 2014\nPondicherry Central University | Pondicherry, India.\n Gold Medalist in M.B.A. Tourism Studies | 2006 - 2008\nJawaharlal Nehru University | New Delhi, India.\nB.A. Hons. Russian Language | 2003 - 2006\nIndira Gandhi National Open University New Delhi, India.\nB.A. Tourism Studies | 2003 - 2006"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Ajay Kumar Koli",
     "section": "",
-    "text": "Hi there! Welcome to my profile!\nI am a data science educator and a first-generation college graduate. My wife, Dr. Kiran, and I co-founded the SARA Institute of Data Science, India, with the mission of making data science education accessible to the general public in India.\nWhen I’m not working, you’ll find me jogging or experimenting in the kitchen.\nI’d love to connect and chat with you! hello world"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Dr. Ajay Kumar Koli",
-    "section": "Education",
-    "text": "Education\nUniversity of Hyderabad | Hyderabad, Telangana.\nPhD in Management Studies | Aug 2010 - Sept 2019\nUniversity of Wurzburg | Wurzburg, Germany.\nResearch Stay | Jan 2014 - Feb 2014\nPondicherry Central University | Pondicherry, India. M.B.A. Tourism Studies | 2006 - 2008   Gold Medalist.\nJawaharlal Nehru University | New Delhi, India.\nB.A. Hons. Russian Language | 2003 - 2006"
+    "text": "Hello World! 👋\nI am Ajay, a data science educator on a mission to turn complex data into actionable skills for everyone – no coding background required.\nThrough SARA Institute of Data Science (co-founded with my wife, Dr. Kiran Lata), we are training learners across India to use data for social good, research, and innovation.\nAs a first-generation college graduate, I have spent several years teaching R to students and professionals – proving data science is not just for tech elites.\nOff-duty: Jogging, testing new recipes, or chasing my toddler around the house.\nLet’s chat about data, education, or why every PhD student needs R!"
   }
 ]

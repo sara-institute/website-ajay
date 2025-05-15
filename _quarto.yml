@@ -7,8 +7,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
+      - text: "Education"
+        href: education.qmd
+      - text: "Talks"
+        href: talks.qmd  
+      - text: "Projects"
+        href: projects.qmd  
     tools:
       - icon: github
         href: https://github.com/koliajaykr
